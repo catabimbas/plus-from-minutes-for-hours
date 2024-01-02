@@ -2,4 +2,4 @@
 
 
 Foi pensado como forma de praticar um pouco de lógica e resolver o problema do StayFree não possuir uma forma de somar o total de tempo no app selecionando os horários determinados
-Possui mais de uma branch por burrice minha que não mandava o projeto depois de um commit
+Possui mais de uma branch por burrice minha que não mandava o projeto depois de um commit que acabou acarredando em reject fast forward no projeto
