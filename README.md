@@ -1,4 +1,4 @@
-#Minutos para horas
+# Minutos para horas
 
 
 Foi pensado como forma de praticar um pouco de lógica e resolver o problema do StayFree não possuir uma forma de somar o total de tempo no app selecionando os horários determinados
